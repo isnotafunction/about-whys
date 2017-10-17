@@ -1,0 +1,79 @@
+body{
+  background-color: #0AAC81;
+  font: 300 19px 'Lato', sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+/* home screen */
+#home{
+  height: 100vh;
+  width: 100%;
+  background-image: url("./pic/why1.svg");
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+/* story sections 1-3 */
+
+.container{
+height: 500px;
+margin: 0 auto;
+padding: 50px 20px;
+justify-content: center;
+}
+
+#section1{
+  background-color: #782AAC;
+  color: #ffffff;
+}
+#section2{
+  background-color: #FFF;
+  color: #2B5291;
+}
+#section3{
+  background-color: #0AAC81;
+  color: #ffffff;
+}
+.notebook{
+  text-align:left;
+  height: 400px;
+  width: 70%;
+  padding-top: 70px;
+  margin: 0px auto;
+  overflow-x: auto;
+}
+
+.titleImage{
+  height:100px;
+  width: 100px;
+  margin: auto;
+}
+a{
+  text-decoration: none;
+}
+a:visited {
+    color: #FF9900;
+}
+a:link{
+  color: #FF9900;
+}
+
+/* Footer and links */
+footer{
+  border-top: #000 2px solid;
+}
+footer ul{
+  margin:0;
+  padding:0;
+}
+footer li{
+  float: right;
+  display: inline;
+  padding: 10px 10px;
+}
+.logoImg{
+  height: 35px;
+  width: 35px;
+}
