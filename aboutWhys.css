@@ -9,10 +9,9 @@ body{
 #home{
   height: 100vh;
   width: 100%;
-  background-image: url("./pic/why1.svg");
+  background: url("./pic/why.svg") no-repeat;
   background-color: #fff;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 300% 100%;
   background-position:center;
 }
 /* story sections 1-3 */
