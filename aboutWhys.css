@@ -30,7 +30,7 @@ margin: 0;
 }
 
 #title{
-  font-size: 2em;
+  font-size: 1.5em;
   margin: 10px;
 }
 
@@ -104,9 +104,10 @@ footer{
 footer ul{
   margin:0;
   padding:0;
+  display: flex;
+  justify-content: space-around;
 }
 footer li{
-  float: right;
   display: inline;
   padding: 10px 10px;
 }
