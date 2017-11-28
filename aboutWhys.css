@@ -143,15 +143,15 @@ footer li{
 }
 
 #one{
-  height:3rem;
-  width: 3rem;
+  height:4rem;
+  width: 4rem;
   left:10%;
   background-color: #782AAC;
 }
 
 #two{
-  height:4rem;
-  width: 4rem;
+  height:3rem;
+  width: 3rem;
   left:20%;
   background-color: #FF9900;
   animation-delay:1s;
@@ -159,8 +159,8 @@ footer li{
 }
 
 #three{
-  height:1rem;
-  width: 1rem;
+  height:1.2rem;
+  width: 1.2rem;
   left:30%;
   background-color: #0AAC81;
   animation-delay:4s;
@@ -168,18 +168,18 @@ footer li{
 }
 
 #four{
-  height:4.5rem;
-  width: 4.5rem;
-  left:70%;
+  height:3rem;
+  width: 3rem;
+  left:65%;
   background-color: #782AAC;
   animation-delay:2s;
   animation-duration: 20s;
 }
 
 #five{
-  height:3rem;
-  width: 3rem;
-  left:85%;
+  height:4.3rem;
+  width: 4.3rem;
+  left:75%;
   background-color: #FF9900;
   animation-delay:5s;
   animation-duration: 12s;
@@ -191,7 +191,7 @@ footer li{
   background-color: #0AAC81;
   animation-delay: 2.5s;
   animation-duration: 10s;
-  left: 95%;
+  left: 85%;
 }
 
 @keyframes square {
