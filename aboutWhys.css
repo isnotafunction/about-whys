@@ -29,7 +29,8 @@ text-align: center;
 margin: 0;
 }
 
-h4{
+#title{
+  font-size: 2em;
   margin: 10px;
 }
 
