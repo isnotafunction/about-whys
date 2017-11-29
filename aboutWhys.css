@@ -136,7 +136,7 @@ footer li{
   display: block;
   bottom: 0px;
   animation: square 20s infinite;
-  -webkit-animation:square 10s infinite;
+  -webkit-animation:square 20s infinite;
   transition-timing-function: linear;
   -webkit-transition-timing-function: linear;
 }
@@ -204,9 +204,9 @@ footer li{
 }
 @-webkit-keyframes square{
    0%{-webkit-transform: translateY(0px);}
-  100%{-webkit-transform:translateY(-1080px);}  
+  100%{-webkit-transform:translateY(-1580px);}  
 }
 @keyframes square{
   0%{transform: translateY(0px);}
-  100%{transform: translateY(-1080px);}
+  100%{transform: translateY(-1580px);}
 }
