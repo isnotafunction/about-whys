@@ -135,7 +135,7 @@ footer li{
   position: absolute;
   display: block;
   bottom: 0px;
-  animation: square 10s infinite;
+  animation: square 20s infinite;
   -webkit-animation:square 10s infinite;
   transition-timing-function: linear;
   -webkit-transition-timing-function: linear;
